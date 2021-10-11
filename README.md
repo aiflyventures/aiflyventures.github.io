@@ -1,2 +1,2 @@
-# aiflyventures.github.io
-site
+# aifly
+Aifly.ai website
