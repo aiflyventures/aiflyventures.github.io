@@ -2,7 +2,7 @@ body{
     font-family: 'Fjalla One', sans-serif;
     font-family: 'Montserrat', sans-serif;
     align-items: center;
-    color: rgba(0, 0, 0, .87);
+    color: rgba(51, 255, 0, 0.87);
     display: flex;
     font-size: 1em;
     font-weight: 400;
@@ -13,7 +13,7 @@ html, body {
     /* background: url('../images/.png'); 
     background-repeat: no-repeat;
     background-size: 2000px 1000px;*/
-
+    color: rgba(51, 255, 0, 0.87);
     min-height: 100vh;
     margin: 0;
     padding: 0;
@@ -24,6 +24,7 @@ head {
 }
 header {
     display: block;
+    color: rgba(51, 255, 0, 0.87);
 }
 
 img {
@@ -54,6 +55,7 @@ p {
 .text1{
     text-align: left;
     padding-top: 300px;
+    color: rgba(51, 255, 0, 0.87);
 }
 
 #background-video {
