@@ -10,9 +10,8 @@ body{
     line-height: 1.3;
 }
 html, body {
-    /* background: url('../images/.png'); 
-    background-repeat: no-repeat;
-    background-size: 2000px 1000px;*/
+    background: url('../images/vortex.gif'); 
+    background-position:25% 40%;
     color: rgba(51, 255, 0, 0.87);
     min-height: 100vh;
     margin: 0;
@@ -24,7 +23,6 @@ head {
 }
 header {
     display: block;
-    color: rgba(51, 255, 0, 0.87);
 }
 
 img {
@@ -55,19 +53,8 @@ p {
 .text1{
     text-align: left;
     padding-top: 300px;
-    color: rgba(51, 255, 0, 0.87);
 }
 
-#background-video {
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    z-index: -1;
-  }
+
   
   
